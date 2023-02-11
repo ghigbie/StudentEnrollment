@@ -465,9 +465,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.csproj",
-      "projectName": "StudentEnrollmentApp",
-      "projectPath": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.csproj",
+      "projectUniqueName": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.Api.csproj",
+      "projectName": "StudentEnrollmentApp.Api",
+      "projectPath": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.Api.csproj",
       "packagesPath": "/Users/georgehigbie/.nuget/packages/",
       "outputPath": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/obj/",
       "projectStyle": "PackageReference",

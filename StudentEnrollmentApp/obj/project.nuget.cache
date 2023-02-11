@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ShH9RmByYWWbqHD+YlqtzUggciL61hle0w2QZ+K/+p8BcgntfZP2IIevzVt9L1AILRG7dhPt1pMSudxJBLiNJg==",
+  "dgSpecHash": "icv6D73D8xpLbHfFNUS8OfNdKa+DfeDPqRKi0LWNmUmyy1/5CMtX8RLgJFx+VMv+e03CRDQSuKWGqAmnduLH3Q==",
   "success": true,
-  "projectFilePath": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.csproj",
+  "projectFilePath": "/Users/georgehigbie/Projects/StudentEnrollmentApp/StudentEnrollmentApp/StudentEnrollmentApp.Api.csproj",
   "expectedPackageFiles": [
     "/Users/georgehigbie/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "/Users/georgehigbie/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
